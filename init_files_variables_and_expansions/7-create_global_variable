@@ -1,2 +1,2 @@
 #!/bin/bash
-alias BEST=School
+New-Variable -Name $BEST -Value $School -Scope "Global"
